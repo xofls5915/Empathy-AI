@@ -62,5 +62,8 @@ if __name__ == "__main__":
 
     print("Start")
 
-    demo.launch(inbrowser=True)
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=10000
+    )
 
