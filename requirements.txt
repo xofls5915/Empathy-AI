@@ -1,4 +1,3 @@
 gradio
-math
-gradio
-ollama
+groq
+python-dotenv
