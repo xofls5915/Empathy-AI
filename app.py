@@ -288,6 +288,4 @@ if __name__ == "__main__":
     print("Start")
 
     demo.launch(inbrowser=True)
-=======
 
->>>>>>> 428b2f95b62fd6fd626f9fd7f8281c572e687459
